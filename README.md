@@ -1,0 +1,2 @@
+# Equiprobable independent events
+ 
